@@ -1,0 +1,10 @@
+.col-lg-4{
+    background-color: cornflowerblue;
+    border: 2px,solid,black;
+    margin:100vh;
+}
+.card-header{
+    background-color:white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
